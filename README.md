@@ -21,10 +21,12 @@ int main()
 
 }}
 
+
+
 ```
 
 hasilnya :
-![soal11](https://raw.githubusercontent.com/Khunaify/UTS_Alogaritma/master/soal1.jpeg)
+![soal1](https://raw.githubusercontent.com/Khunaify/UTS_Alogaritma/master/soal1.jpeg)
 
 
 ## latihan2.cpp  [soal2](https://raw.githubusercontent.com/Khunaify/UTS_Alogaritma/master/soal2.png)
@@ -43,7 +45,9 @@ int main()
       Batas = N + 100;
 X = 20;	T = N;	while( T <= Batas)	{ T = T + X;	X = X + 10;}	cout << T;
 }}
+
+
 ```
 
 hasilnya :
-![soal21](https://raw.githubusercontent.com/Khunaify/UTS_Alogaritma/master/soal2.jpeg)
+![soal2](https://raw.githubusercontent.com/Khunaify/UTS_Alogaritma/master/soal2.jpeg)
