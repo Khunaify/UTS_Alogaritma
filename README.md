@@ -18,7 +18,7 @@ int main()
     X = A;	Y = B;    
 
     } while(X!= Y || X < Y ); { X = X + A;   Y = Y + B;}  cout << <<X <<endl; //Jika False akan mencetak X dan Jika True akan berulang  	return 0;    
-}
+}}
 
 ```
 
@@ -40,7 +40,7 @@ int main()
     cout << "Masukkan Nilai N : " ;
     cin>> N;
       Batas = N + 100;
-X = 20;	T = N;	while( T <= Batas)	{ T = T + X;	X = X + 10;}	cout << T;}
+X = 20;	T = N;	while( T <= Batas)	{ T = T + X;	X = X + 10;}	cout << T;}}
 ```
 
 hasilnya :
